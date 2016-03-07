@@ -23,7 +23,7 @@ public class CurrencyConverter {
 	public static void main(String[] args) {
 		/* 구현합니다. */
 		
-		System.out.println("백 만원은 "+toDollar(100)+"달러입니다.");
+		System.out.println("백 만원은 "+toDollar(1000000)+"달러입니다.");
 		System.out.println("백달러는 "+toKWR(100)+"원입니다.");
 	}
 }
